@@ -2,7 +2,7 @@
 #### My name is Liz (she/her) and I'm a front-end web developer with a background in Psychology.
 
 - :computer:  &nbsp; I’m currently learning React JS, Bootstrap
-- :dizzy: &nbsp; I love learning, reading, anime, dogs, music, and pizza
+- :dizzy: &nbsp; I love learning, reading, anime, dogs, music, pizza
 - :eyes:  &nbsp; I'm looking for full-time entry level roles in web development
 - 📫  &nbsp; Connect with me on Twitter: [@LizCodes](https://twitter.com/LizCodes)
 
