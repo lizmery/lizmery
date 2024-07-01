@@ -1,9 +1,9 @@
 # Hi! :wave:
-#### My name is Liz (she/her) and I'm a front-end web developer with a background in Psychology.
+#### My name is Liz (she/her) and I'm a software developer with a background in Psychology.
 
-- :computer:  &nbsp; I’m currently learning React JS, Gatsby JS
+- :computer:  &nbsp; I’m currently expanding my knowledge on fullstack application
 - :dizzy: &nbsp; I love learning, reading, anime, dogs, music, pizza
-- :eyes:  &nbsp; I'm looking for full-time entry level roles in web development
+- :eyes:  &nbsp; I'm looking for full-time roles in web development
 - :seedling:  &nbsp; Connect with me on Twitter: [@LizCodes](https://twitter.com/LizCodes)
 
 ![luffy](https://user-images.githubusercontent.com/78451440/130144263-b87838ae-ca63-492c-91c2-4febfb661c5a.gif)
